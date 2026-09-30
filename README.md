@@ -31,10 +31,9 @@ DVWA in an isolated lab environment.
 | Missing Security Headers (CSP, X-Frame-Options, etc.) | Automated (OWASP ZAP) | Medium/Low |
 
 ## 📂 Repository Contents
-- `VAPT_Project_Report_Avisha_Masih.pdf` – Full 15+ page project report
+- `VAPT_Project_Report_Avisha_Masih.pdf` – Full project report with all testing evidence and screenshots
 - `OWASP_Top10_Notes_Avisha_Masih.pdf` – Study notes on SQLi, XSS, Broken Auth, Security Misconfiguration
 - `VAPT_Presentation_Avisha_Masih.pptx` – Project presentation (10 slides)
-- `screenshots/` – Evidence screenshots (Burp Suite, DVWA, OWASP ZAP)
 
 ## ✅ Key Findings
 - SQL Injection allowed full user-table disclosure with no authentication.
